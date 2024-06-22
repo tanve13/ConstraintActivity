@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Constraint Activity</string>
+    <string name="dca">DCA</string>
+    <string name="mars">MARS</string>
+    <string name="space_station">Space Station</string>
+    <string name="flight">Flight</string>
+    <string name="rovers">Rovers</string>
+    <string name="one_way">One Way</string>
+    <string name="traveller">Traveller</string>
+</resources>
